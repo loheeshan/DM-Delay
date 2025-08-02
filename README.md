@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Loheeshan**
 
 - GitHub: [@loheeshan](https://github.com/loheeshan)
 - LinkedIn: [loheeshan](https://www.linkedin.com/in/loheeshan/)
