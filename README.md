@@ -160,12 +160,54 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@loheeshan](https://github.com/loheeshan)
 - LinkedIn: [loheeshan](https://www.linkedin.com/in/loheeshan/)
 
+## 🏆 Special Thanks - 30 Days Challenge
+
+This project was built as part of **Jagan's 30 Days, 30 Apps Challenge** - an incredible journey of consistent coding and learning!
+
+### 🎯 Challenge Completed
+
+- ✅ **Day 1 of 30**: DM Delay App
+- 🔥 **Streak**: Building apps consistently for 30 days
+- 💪 **Growth**: Learning new technologies and improving skills daily
+
+### 🙏 Special Thanks to Jagan (@jaganjavid)
+
+Huge gratitude to **[Jagan](https://github.com/jaganjavid)** for:
+
+- 🚀 **Creating the 30 Days Challenge** and inspiring daily coding habits
+- 📚 **Providing clear tutorials** and project guidance
+- 👥 **Building an amazing community** of developers
+- 🎨 **Encouraging hands-on learning** through real projects
+- 🎥 **Detailed YouTube tutorials** that make complex concepts simple
+
+### 🔗 Challenge Resources
+
+- **Jagan's GitHub**: [jaganjavid](https://github.com/jaganjavid)
+- **Day 1 Tutorial**: [DM Delay Challenge Video](https://www.youtube.com/watch?v=X8SiFDa-EFs&t=126s&ab_channel=codejavid)
+- **Channel**: [CodeJavid YouTube](https://www.youtube.com/channel/codejavid)
+
+This challenge taught me:
+
+- **Consistency beats perfection** - Building something every day
+- **Learning by doing** - Hands-on experience with React, TypeScript, and modern tools
+- **Following tutorials effectively** - Understanding concepts while building
+- **Community learning** - Growing together with fellow developers
+
+---
+
+> _"Thanks to Jagan's 30 Days Challenge, I'm building my way to becoming a better developer, one app at a time!"_ 🚀
+
 ## 🙏 Acknowledgments
 
+- **[Jagan (@jaganjavid)](https://github.com/jaganjavid)** for the amazing 30 Days Challenge and tutorial 🏆
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
 - [Sonner](https://sonner.emilkowal.ski/) for toast notifications
 - [React](https://reactjs.org/) team for the amazing framework
 - [Vite](https://vitejs.dev/) for lightning-fast development
+
+### 🔥 Built during Jagan's 30 Days, 30 Apps Challenge
+
+_Day 1 of 30 - Learning, building, and growing one app at a time!_
 
 ---
 
